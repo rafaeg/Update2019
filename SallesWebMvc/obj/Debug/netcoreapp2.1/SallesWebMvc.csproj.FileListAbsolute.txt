@@ -1,3 +1,4 @@
+C:\Projetos\SallesWebMvc\SallesWebMvc\bin\Debug\netcoreapp2.1\SallesWebMvc.dll.config
 C:\Projetos\SallesWebMvc\SallesWebMvc\bin\Debug\netcoreapp2.1\SallesWebMvc.deps.json
 C:\Projetos\SallesWebMvc\SallesWebMvc\bin\Debug\netcoreapp2.1\SallesWebMvc.runtimeconfig.json
 C:\Projetos\SallesWebMvc\SallesWebMvc\bin\Debug\netcoreapp2.1\SallesWebMvc.runtimeconfig.dev.json
@@ -5,7 +6,7 @@ C:\Projetos\SallesWebMvc\SallesWebMvc\bin\Debug\netcoreapp2.1\SallesWebMvc.dll
 C:\Projetos\SallesWebMvc\SallesWebMvc\bin\Debug\netcoreapp2.1\SallesWebMvc.pdb
 C:\Projetos\SallesWebMvc\SallesWebMvc\bin\Debug\netcoreapp2.1\SallesWebMvc.Views.dll
 C:\Projetos\SallesWebMvc\SallesWebMvc\bin\Debug\netcoreapp2.1\SallesWebMvc.Views.pdb
-C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.csproj.AssemblyReference.cache
+C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.dll.config
 C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.csproj.CoreCompileInputs.cache
 C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.RazorAssemblyInfo.cache
 C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.RazorAssemblyInfo.cs
@@ -30,5 +31,5 @@ C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.Views
 C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.dll
 C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.pdb
 C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.csproj.CopyComplete
-C:\Projetos\SallesWebMvc\SallesWebMvc\bin\Debug\netcoreapp2.1\SallesWebMvc.dll.config
-C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.dll.config
+C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.csproj.AssemblyReference.cache
+C:\Projetos\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.g.cshtml.cs
