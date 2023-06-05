@@ -13,7 +13,8 @@ namespace SallesWebMvc.Data
             : base(options)
         {
         }
-
         public DbSet<Departament> Departament { get; set; }
+        public DbSet<SallesRecord> SallesRecord { get; set; }
+        public DbSet<Seller> Seller { get; set; }
     }
 }
